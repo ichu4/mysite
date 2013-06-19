@@ -8,3 +8,6 @@ This will include:
 * HTML
 * CSS
 * JS
+
+
+Next week we are going to 
